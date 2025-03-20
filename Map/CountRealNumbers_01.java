@@ -1,7 +1,6 @@
 import java.util.*;
 
 public class CountRealNumbers_01 {
-
     public static void main(String[] args) {
         Map<String, Integer> counter = new HashMap<>();
 
@@ -22,9 +21,3 @@ public class CountRealNumbers_01 {
         }
     }
 }
-
-
-
-
-
-
